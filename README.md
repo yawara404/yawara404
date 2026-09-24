@@ -1,5 +1,5 @@
-<!-- github-readme-stats.vercel.app の部分を自分のVercelのURLに書き換える -->
-[![Top Langs](https://github-readme-stats-nojukw64z-wawa-app.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
