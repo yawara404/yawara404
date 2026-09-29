@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/yawara404/Wawa.hz">
-    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz&description=Wawa.hz%20—%20自己紹介もここ。yawara404のブログです。&theme=tokyonight&v=gap1" alt="Wawa.hz" height="165" />
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz&description=Wawa.hz%20—%20自己紹介もここ。yawara404のブログです。&theme=tokyonight&v=match1" alt="Wawa.hz" />
   </a>
-     &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css&theme=tokyonight&v=gap1" alt="Top Langs" height="165" />
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&langs_count=4&hide=html,css&theme=tokyonight&v=match1" alt="Top Langs" />
   </a>
 </p>
 
