@@ -1,6 +1,11 @@
-[![Top Langs](https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Wawa.hz](https://github-readme-stats.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz)](https://github.com/yawara404/Wawa.hz)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css" alt="Top Langs" />
+  </a>
+  <a href="https://github.com/yawara404/Wawa.hz">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz" alt="Wawa.hz" />
+  </a>
+</p>
 
 
 <!--
