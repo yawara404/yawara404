@@ -1,12 +1,12 @@
-<p align="left">
+<p align="center">
   <a href="https://github.com/yawara404/Wawa.hz">
-    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz&v=1" alt="Wawa.hz" height="150" />
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz&description=Wawa.hz%20—%20自己紹介もここ。yawara404のブログです。&theme=tokyonight&v=gap1" alt="Wawa.hz" height="165" />
   </a>
+     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css" alt="Top Langs" height="150" />
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css&theme=tokyonight&v=gap1" alt="Top Langs" height="165" />
   </a>
 </p>
-
 
 <!--
 **yawara404/yawara404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
