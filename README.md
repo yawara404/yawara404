@@ -1,9 +1,9 @@
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css" alt="Top Langs" />
-  </a>
+<p align="left">
   <a href="https://github.com/yawara404/Wawa.hz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz" alt="Wawa.hz" />
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz" alt="Wawa.hz" height="150" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/top-langs/?username=yawara404&layout=compact&hide=html,css" alt="Top Langs" height="150" />
   </a>
 </p>
 
