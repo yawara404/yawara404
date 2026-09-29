@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://github.com/yawara404/Wawa.hz">
     <img src="https://github-readme-stats-fawn-one-35.vercel.app/api/pin/?username=yawara404&repo=Wawa.hz" alt="Wawa.hz" height="150" />
   </a>
